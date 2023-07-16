@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_accent">#FF000000</color>
+    <color name="color_secondary">#FF000000</color>
+    <color name="color_primary">#FF000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_bg">#499CF4</color>
+    <color name="view_bg">#010917</color>
+    <color name="et_bg">#6D7F9A</color>
+    <color name="hint">#E6E2E2</color>
+    <color name="grey">#745E5D5D</color>
+    <color name="bg_bottombar">#010C1F</color>
+    <color name="bottombar_unselect">#8F8D8D</color>
+
+
+</resources>
